@@ -1,0 +1,6 @@
+{
+  "name": "Barnes & Noble",
+  "description": "Your Library. Your Bookshop. Anywhere. Discover books, order café items, manage membership, and access your AI reading assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
